@@ -27,6 +27,9 @@ theme:
       primary: teal
       accent: lime
 
+extra_javascript:
+  - javascripts/ip_tracker.js
+
 plugins:
   - social
 
